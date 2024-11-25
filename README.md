@@ -1,4 +1,4 @@
-# TCP-Chat-Client-and-Server
+# TCP Chat Client and Server
 
 TCP Chat Client and Server (In Java).
 
