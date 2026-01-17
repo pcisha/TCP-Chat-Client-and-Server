@@ -2,6 +2,6 @@
 
 TCP Chat Client and Server (In Java).
 
-Author: Prachi Shah @ https://pcisha.my.canva.site/
+Author: Prachi Shah @ https://www.linkedin.com/in/prachisms/
 
 P.S. The default copyright laws apply.
